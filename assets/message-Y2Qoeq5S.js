@@ -1,0 +1,1 @@
+import{a3 as e,a4 as s,a5 as a,a8 as t}from"./index-Dq03yOVi.js";const c={},o={class:"message"},n=t("h2",null,"message",-1),_=[n];function r(d,i){return s(),a("div",o,_)}const m=e(c,[["render",r]]);export{m as default};

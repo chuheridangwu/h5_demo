@@ -1,0 +1,1 @@
+import{a3 as s,a4 as r,a5 as o,a8 as e,ad as t}from"./index-Dq03yOVi.js";const n={},c={class:"search"},l=e("h2",null,"12345676543",-1);function u(a,d){return r(),o("div",c,[l,e("h2",null,t(a.$route.query.startDate),1),e("h2",null,t(a.$route.query.endDate),1),e("h2",null,t(a.$route.query.stayCount),1)])}const _=s(n,[["render",u]]);export{_ as default};
